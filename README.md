@@ -1,5 +1,5 @@
 # Invariant-Risk-Minimization-JAX-
-Implementation of the paper Invariant Risk Minimization (IRM) in **JAX**, a learning paradigm to estimate invariant correlations across multiple training distributions. It 
+Implementation of the paper [Invariant Risk Minimization (IRM)](https://arxiv.org/abs/1907.02893) in **JAX**, a learning paradigm to estimate invariant correlations across multiple training distributions. It 
 learns a data representation such that the optimal classifier, on top of that data representation, matches for all training distributions.
 
 ## How to run the code?
